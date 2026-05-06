@@ -11,5 +11,6 @@
 <br>
 <img src="https://github.com/NguyenTuan6678/NguyenTuan6678/blob/main/assets/akatsuki.gif" />
 <br><br>
-    [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/14921937)
+    
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/14921937)
 </div>
