@@ -1,78 +1,36 @@
-<h1 align="center">
-  Hi 👋, I'm Harry Nguyen
-</h1>
-
-<h3 align="center">
-  A passionate Fullstack Developer from Vietnam 🇻🇳
-</h3>
-
----
-
-## 🚀 About Me
-
-I'm Harry, a programmer who loves building things with code.  
-I enjoy exploring new technologies, solving complex problems, and continuously improving my skills.
-
-- 🌍 Based in **Vietnam**
-- 💻 Fullstack Developer (Backend-focused)
-- 📚 Always learning and experimenting with new tech
-- ⚡ Interested in scalable systems & clean architecture
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" title="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" title="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" title="NestJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" title="Express" />
+<h1 align="center">Harry Nguyen 👋</h1>
+<p align="center">
+  Fullstack Developer • Vietnam 🇻🇳
 </p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" title="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" title="Material UI" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" title="TailwindCSS" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB" />
-</p>
-
-### ⚙️ Tools & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" title="Figma" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.gitlab.com/NguyenTuan6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" /></a>
-  <a href="https://www.linkedin.com/in/ndtuan6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://discord.com/users/of_k"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" /></a>
-  <a href="https://www.facebook.com/harryn6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" /></a>
-</p>
-
----
-
-## 📌 Notes
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
 
 <p align="center">
-  Made with ❤️ by Harry Nguyen
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NguyenTuan6678">
+    <img src="https://github-readme-stats.vercel.app/api?username=NguyenTuan6678&show_icons=true&hide_border=true" height="150"/>
+  </a>
+  <a href="https://github.com/NguyenTuan6678">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTuan6678&layout=compact&hide_border=true" height="150"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NguyenTuan6678">GitHub</a> •
+  <a href="https://gitlab.com/NguyenTuan6678">GitLab</a> •
+  <a href="https://linkedin.com/in/ndtuan6678">LinkedIn</a> •
+  <a href="https://discord.com/users/of_k">Discord</a>
+</p>
+
+<p align="center">
+  <i>Building scalable systems • Clean architecture • Always learning 🚀</i>
 </p>
