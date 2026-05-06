@@ -59,21 +59,11 @@ I enjoy exploring new technologies, solving complex problems, and continuously i
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.github.com/NguyenTuan6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://www.gitlab.com/NguyenTuan6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" /></a>
   <a href="https://www.linkedin.com/in/ndtuan6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
   <a href="https://discord.com/users/of_k"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" /></a>
   <a href="https://www.facebook.com/harryn6678"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" /></a>
 </p>
-
----
-
-## ☕ Support Me
-
-If you like my work, consider supporting me:
-
-- ☕ Buy Me a Coffee: **yourname**
-- 💙 Ko-fi: **yourname**
 
 ---
 
