@@ -9,7 +9,7 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<img src="https://github.com/NguyenTuan6678/NguyenTuan6678/blob/main/assets/akatsuki.gif" />
+<img src="https://github.com/NguyenTuan6678/NguyenTuan6678/blob/main/assets/demon1-evil-geniuses.gif" width="25%" />
 <br><br>
     
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/14921937)
