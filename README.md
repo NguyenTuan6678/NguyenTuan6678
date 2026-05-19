@@ -7,9 +7,9 @@
     💻 System programming languages
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
-    ♥️ Big fan of Demon1 
+    ♥️ Big fan of Demon1  
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Demon1___">
 </pre>
-    [![Twitter Badge](https://shields.io)]([https://twitter.com/yourusername](https://x.com/Demon1___?s=20))
 <br>
 <img src="https://github.com/NguyenTuan6678/NguyenTuan6678/blob/main/assets/demon1-evil-geniuses.gif" width="25%" />
 <br><br>
