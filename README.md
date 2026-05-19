@@ -8,11 +8,10 @@
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
     ♥️ Big fan of Demon1  
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Demon1___">
 </pre>
 <br>
 <img src="https://github.com/NguyenTuan6678/NguyenTuan6678/blob/main/assets/demon1-evil-geniuses.gif" width="25%" />
-<br><br>
-    
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/14921937)
+<br>
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Demon1___">
+<br>
 </div>
